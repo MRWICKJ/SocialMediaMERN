@@ -61,6 +61,8 @@ Feel free to edit and enhance the project structure and error handling as needed
 
 Demo
 ----
+![image](https://github.com/user-attachments/assets/a8900ba4-72eb-4d84-85a4-f231bddb70a4)
+
 
 [View Demo](https://github.com/MRWICKJ/SocialMediaMERN/assets/141364632/d00565b7-b327-4b3d-a16f-61a3599ab7fb)
 
